@@ -3,7 +3,6 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
         int a = 8;
         int b = 67;
         int c = 68;
@@ -11,3 +10,5 @@ public class Main {
         System.out.println(sum);
     }
 }
+
+

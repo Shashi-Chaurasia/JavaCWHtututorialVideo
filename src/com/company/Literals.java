@@ -10,8 +10,6 @@ public class Literals {
         double g = 39984.324;
         char ch = 'A';
         String str = "Shashi";
-
-
         System.out.println(str);
     }
 }

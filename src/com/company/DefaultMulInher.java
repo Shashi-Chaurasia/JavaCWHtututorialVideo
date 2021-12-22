@@ -10,7 +10,10 @@ interface MyCamera{
 
 interface MyWifi{
     String[] getNetwork();
-    void connectToNetwork(String network);
+
+    default void connectToNetwork(String network) {
+
+    }
 }
 
 class MyCellPhone{

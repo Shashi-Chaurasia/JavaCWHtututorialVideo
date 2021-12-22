@@ -28,8 +28,5 @@ public class Connstructor_inheritance {
         //Base parent = new Base(10);
         Base2 child = new Base2(20 , 30);
 
-
-
-
     }
 }
